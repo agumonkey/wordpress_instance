@@ -1,0 +1,9 @@
+{  
+    "require": {
+	"silex/silex": "1.0.*",
+        "monolog/monolog": "1.2.*",
+	"twig/twig": "1.8.*",
+	"phpunit/phpunit": "3.7.*@dev"
+    },
+    "minimum-stability": "dev"
+}
